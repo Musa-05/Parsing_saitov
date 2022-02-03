@@ -7,5 +7,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="PythonProect" />
+    <orderEntry type="module" module-name="Parsing_saitovт" />
   </component>
 </module>
